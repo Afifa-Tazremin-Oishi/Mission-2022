@@ -1,0 +1,86 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 90px;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  text-align: center;
+  font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
+.title-1 {
+  color: rgb(3, 3, 49);
+}
+.title-2 {
+  color: rgb(244, 168, 96);
+}
+.orange-color {
+  color: orange;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(rgb(255, 174, 0), tomato);
+  padding: 8px 30px;
+  border-radius: 7px;
+  color: white;
+  font-weight: 700;
+}
+#title {
+  border-left: 4px solid;
+  border-radius: 10px;
+  border-left-color: orange;
+  padding-left: 10px;
+}
+.half-width img {
+  width: 80%;
+  padding-left: 50px;
+}
+
+.half-width {
+  size: 50%;
+  padding: 5%;
+  max-width: 50%;
+  width: 80%;
+  padding: auto;
+}
+.flexable-container {
+  display: flex;
+}
+
+#backcolor-1{
+    background-color: rgb(197, 242, 243);
+}
+
+#backcolor-2{
+    background-color: rgb(245, 215, 215);
+
+}
+
+#backcolor-3{
+    background-color: rgb(222, 210, 245);
+}
+
+.Experice-item img{
+    width: 60%;
+}
+.flaxible-container-2{
+    display: flex;
+    margin: 10px;
+}
+.Experice-item{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 20px;
+}
+.top-banner{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 200px
+}
