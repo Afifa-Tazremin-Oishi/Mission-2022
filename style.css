@@ -1,9 +1,10 @@
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Roboto Slab";
   margin: 90px;
+  background-color:rgb(237, 248, 248);
 }
 h1 {
-  font-size: 50px;
+  font-size: 60px;
 }
 h2 {
   text-align: center;
@@ -13,7 +14,7 @@ h3{
     font-size: 30px;
 }
 .title-1 {
-  color: rgb(3, 3, 49);
+  color: rgb(25, 25, 133);
 }
 .title-2 {
   color: rgb(244, 168, 96);
@@ -130,10 +131,10 @@ li{
   color: teal;
 }
 .foot{
+  padding: 1%;
   text-align: center;
-  font-weight: 400;
+  font-weight: 400px;
   color:darkcyan;
-  border-width: 10px;
   background-color: black;
 }
 .color-1{
@@ -141,5 +142,8 @@ li{
 }
 .color-2{
   color: darksalmon;
+}
+#footer-font{
+  font-family:cursive;
 }
 
