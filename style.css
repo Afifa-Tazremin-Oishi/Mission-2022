@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto Slab";
   margin: 90px;
-  background-color:rgb(237, 248, 248);
+  background-color:rgb(203, 231, 238);
 }
 h1 {
   font-size: 60px;
@@ -91,11 +91,11 @@ h3{
 }
 #spider{
   padding-left: 200px;
-  color:rgb(17, 17, 97);
+  color:mediumslateblue;
   font-size: 50px;
 }
 #special{
-  color:rgb(179, 18, 18);
+  color:coral;
 }
 #skill{
   color:coral;
