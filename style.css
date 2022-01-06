@@ -1,13 +1,13 @@
 body {
   font-family: "Roboto Slab";
-  margin: 90px;
+  margin: 0px;
   background-color:rgb(203, 231, 238);
 }
 h1 {
   font-size: 60px;
 }
 h2 {
-  text-align: center;
+  text-align:center;
   font-size: 50px;
 }
 h3{
@@ -50,6 +50,7 @@ h3{
 }
 .flexable-container {
   display: flex;
+  margin: 100px;
 }
 
 #backcolor-1{
@@ -83,11 +84,17 @@ h3{
     background-position: left;
     background-size: 200px
 }
+.company-banner{
+  background-image: url(images/shapes/shape-6.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 360px;
+}
 .community{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position:bottom right;
-    background-size: 200px
+    background-size: 200px;
 }
 #spider{
   padding-left: 200px;
@@ -106,8 +113,9 @@ li{
   padding-left: 20px;
 }
 .spider-man img{
-  width: 100%;
-  padding-left: 50px;
+  width: 90%;
+  height: 90%;
+  border-radius: 20px;
 }
 .experience{
   width: 50%;
@@ -127,15 +135,12 @@ li{
   color: orange;
 }
 #spider-titli{
-  padding-left: 50px;
+  padding-left: 150px;
   color: teal;
 }
 .foot{
-  padding: 1%;
-  text-align: center;
-  font-weight: 400px;
-  color:darkcyan;
-  background-color: black;
+ 
+
 }
 .color-1{
   color: cornflowerblue;
@@ -145,5 +150,12 @@ li{
 }
 #footer-font{
   font-family:cursive;
+}
+footer{
+  background-color: black;
+  padding: 1%;
+  text-align: center;
+  font-weight: 400px;
+  color:darkcyan;
 }
 
