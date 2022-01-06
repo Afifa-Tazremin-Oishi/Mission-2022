@@ -27,7 +27,7 @@ h3{
   padding: 8px 30px;
   border-radius: 7px;
   color: white;
-  font-weight: 700;
+  font-weight: 400;
 }
 #title {
   border-left: 4px solid;
@@ -57,13 +57,11 @@ h3{
 
 #backcolor-2{
     background-color: rgb(245, 215, 215);
-
 }
 
 #backcolor-3{
     background-color: rgb(222, 210, 245);
 }
-
 .Experice-item img{
     width: 60%;
 }
@@ -84,3 +82,61 @@ h3{
     background-position: left;
     background-size: 200px
 }
+.community{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:bottom right;
+    background-size: 200px
+}
+#spider{
+  padding-left: 200px;
+  color:rgb(17, 17, 97);
+  font-size: 50px;
+}
+#skill{
+  color:coral;
+  text-align: left;
+}
+li{
+  color:darkslategray;
+  padding-left: 20px;
+}
+.spider-man img{
+  width: 100%;
+  padding-left: 50px;
+}
+.experience{
+  width: 50%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow:10px 10px 20px gray;
+}
+#heading1{
+  color: slateblue;
+}
+#heading2{
+  color: palevioletred;
+}
+#heading3{
+  color: orange;
+}
+#spider-titli{
+  padding-left: 50px;
+  color: teal;
+}
+.foot{
+  text-align: center;
+  font-weight: 400;
+  color:darkcyan;
+  border-width: 10px;
+  background-color: black;
+}
+.color-1{
+  color: cornflowerblue;
+}
+.color-2{
+  color: darksalmon;
+}
+
